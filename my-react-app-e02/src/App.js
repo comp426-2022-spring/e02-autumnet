@@ -59,7 +59,7 @@ function App() {
   return (
     <div className="App">
       <div className="app-title">
-        <h1>COMP 426 Grader</h1>
+        <h1>COMP 426 Points</h1>
       </div>
       <form>
             <input type="text" id="a00" placeholder="a00" /><br/><br/>
